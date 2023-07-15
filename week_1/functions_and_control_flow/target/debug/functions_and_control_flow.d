@@ -1,0 +1,1 @@
+/home/schwifty/workspace/rust_fundamentals/week_1/functions_and_control_flow/target/debug/functions_and_control_flow: /home/schwifty/workspace/rust_fundamentals/week_1/functions_and_control_flow/src/main.rs
