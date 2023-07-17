@@ -1,0 +1,1 @@
+/home/schwifty/workspace/rust_fundamentals/week_1/borrowing_and_references/target/debug/borrowing_and_references: /home/schwifty/workspace/rust_fundamentals/week_1/borrowing_and_references/src/main.rs
