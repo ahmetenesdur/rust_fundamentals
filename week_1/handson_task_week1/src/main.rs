@@ -3,7 +3,6 @@
 fn main() {
     // Step 4: Create two String variables, string1 and string2, and initialize them with appropriate values.
     let string1: String = String::from("Hello, ");
-    // rust symbol
     let string2: &str = "Rust! 🦀"; // string2 is a string slice (&str)
 
     // Step 5: Call the concatenate_strings function with references to string1 and string2 as arguments (using string slices).
