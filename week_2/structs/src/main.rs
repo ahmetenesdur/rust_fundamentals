@@ -1,0 +1,3 @@
+// Structs
+
+fn main() {}
